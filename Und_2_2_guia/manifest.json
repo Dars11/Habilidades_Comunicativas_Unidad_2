@@ -1,0 +1,57 @@
+{
+  "pageCount": 12,
+  "pages": [
+    {
+      "src": "./images/page-1-74f2e6a8.webp"
+    },
+    {
+      "src": "./images/page-2-82ba8303.webp"
+    },
+    {
+      "src": "./images/page-3-1040c544.webp"
+    },
+    {
+      "src": "./images/page-4-49a860de.webp"
+    },
+    {
+      "src": "./images/page-5-5fd5330f.webp"
+    },
+    {
+      "src": "./images/page-6-1196effe.webp"
+    },
+    {
+      "src": "./images/page-7-1b7bc5af.webp"
+    },
+    {
+      "src": "./images/page-8-5b516286.webp"
+    },
+    {
+      "src": "./images/page-9-fa647ed0.webp"
+    },
+    {
+      "src": "./images/page-10-d9eee354.webp"
+    },
+    {
+      "src": "./images/page-11-ed1752f0.webp"
+    },
+    {
+      "src": "./images/page-12-5f1779bc.webp"
+    }
+  ],
+  "generatedAt": "2025-10-08T18:49:07.725Z",
+  "source": "Und_2_2_Presentaciones efectivas en público.pdf",
+  "integrity": {
+    "images/page-1-74f2e6a8.webp": "74f2e6a8",
+    "images/page-2-82ba8303.webp": "82ba8303",
+    "images/page-3-1040c544.webp": "1040c544",
+    "images/page-4-49a860de.webp": "49a860de",
+    "images/page-5-5fd5330f.webp": "5fd5330f",
+    "images/page-6-1196effe.webp": "1196effe",
+    "images/page-7-1b7bc5af.webp": "1b7bc5af",
+    "images/page-8-5b516286.webp": "5b516286",
+    "images/page-9-fa647ed0.webp": "fa647ed0",
+    "images/page-10-d9eee354.webp": "d9eee354",
+    "images/page-11-ed1752f0.webp": "ed1752f0",
+    "images/page-12-5f1779bc.webp": "5f1779bc"
+  }
+}

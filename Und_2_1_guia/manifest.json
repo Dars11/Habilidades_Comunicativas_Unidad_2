@@ -1,0 +1,69 @@
+{
+  "pageCount": 15,
+  "pages": [
+    {
+      "src": "./images/page-1-7683c803.webp"
+    },
+    {
+      "src": "./images/page-2-fe53333b.webp"
+    },
+    {
+      "src": "./images/page-3-8f2fa3eb.webp"
+    },
+    {
+      "src": "./images/page-4-4c84b522.webp"
+    },
+    {
+      "src": "./images/page-5-cfb8a459.webp"
+    },
+    {
+      "src": "./images/page-6-6470df34.webp"
+    },
+    {
+      "src": "./images/page-7-398d17d1.webp"
+    },
+    {
+      "src": "./images/page-8-cba66cdb.webp"
+    },
+    {
+      "src": "./images/page-9-11c417fc.webp"
+    },
+    {
+      "src": "./images/page-10-e2e984a9.webp"
+    },
+    {
+      "src": "./images/page-11-f23d53d6.webp"
+    },
+    {
+      "src": "./images/page-12-e8c15043.webp"
+    },
+    {
+      "src": "./images/page-13-e94f1e65.webp"
+    },
+    {
+      "src": "./images/page-14-0e836891.webp"
+    },
+    {
+      "src": "./images/page-15-b451d43d.webp"
+    }
+  ],
+  "generatedAt": "2025-10-08T18:48:05.374Z",
+  "source": "Und_2_1_Técnicas de oratoria y expresión oral.pdf",
+  "integrity": {
+    "images/page-1-7683c803.webp": "7683c803",
+    "images/page-2-fe53333b.webp": "fe53333b",
+    "images/page-3-8f2fa3eb.webp": "8f2fa3eb",
+    "images/page-4-4c84b522.webp": "4c84b522",
+    "images/page-5-cfb8a459.webp": "cfb8a459",
+    "images/page-6-6470df34.webp": "6470df34",
+    "images/page-7-398d17d1.webp": "398d17d1",
+    "images/page-8-cba66cdb.webp": "cba66cdb",
+    "images/page-9-11c417fc.webp": "11c417fc",
+    "images/page-10-e2e984a9.webp": "e2e984a9",
+    "images/page-11-f23d53d6.webp": "f23d53d6",
+    "images/page-12-e8c15043.webp": "e8c15043",
+    "images/page-13-e94f1e65.webp": "e94f1e65",
+    "images/page-14-0e836891.webp": "0e836891",
+    "images/page-15-b451d43d.webp": "b451d43d"
+  }
+}
